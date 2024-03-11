@@ -1,1 +1,3 @@
-# basecamp-2024
+# basecamp
+
+Welcome to SNU Web Programming Class!
